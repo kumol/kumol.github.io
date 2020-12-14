@@ -1,0 +1,210 @@
+@font-face {
+	font-family: "Saira-extracondensed.semibold";
+	src: url(../fonts/saira-extracondensed.bold.ttf) format("truetype");
+  }
+  @font-face {
+	font-family: "Saira";
+	src: url(../fonts/saira-extracondensed.semibold.ttf) format("truetype");
+  }
+
+  @font-face{
+	font-family: "saira-extracondensed.medium";
+	src: url(../fonts/saira-extracondensed.medium.ttf) format("truetype");
+  }
+
+  h1 { font-family: "saira-extracondensed.semibold",Saria Saira-extracondensed }
+.main{
+	background-image: url(".images/main.png");
+}
+
+.myName{
+	color:#343A40 ;
+	font-family: "saira-extracondensed.semibold",Saria Saira-extracondensed
+}
+
+.title{
+	font-family: "saira-extracondensed.semibold",Saria Saira-extracondensed
+}
+
+.myNameTitle{
+	color:#388E3C ;
+}
+
+.name{
+	font-size:96px; font-weight:bold;
+}
+
+.address{
+	font-size: 25px;
+	font-family: "saira-extracondensed.medium",Saria Saira-extracondensed;
+}
+
+.address a{
+	color:#22AA3C;
+}
+
+.address span{
+	color: #5C8096;
+}
+
+.address a:hover{
+	cursor: pointer;
+	color: #793A25 !important;
+}
+
+.about-detail{
+    font-size: 20px;
+    color: #0a7f29;
+	padding-top: 40px;
+}
+
+.network-logo{
+	cursor: pointer;
+	background: #343A40;
+	border-radius: 30px;
+	width: 60px;
+	height: 60px;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+.network-logo:hover{
+	background-color:#388E3C;
+}
+.network-logo img{
+	margin:10px;
+}
+
+.network-container{
+	list-style: none; display: inline-flex; padding-left: 0px; padding-top: 40px;
+}
+
+.nav-title{
+	text-transform: uppercase;
+	font-size: 56px;
+	color: #008000;
+}
+
+.company{
+	cursor: pointer;
+	font-family: "saira-extracondensed.medium",Saria Saira-extracondensed;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin: 0px;
+	color: #388E3C !important;
+}
+
+.company:hover{
+	color: #824027 !important;
+	text-decoration: underline;
+}
+.position{
+	font-size: 32px;
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	color: #75C784;
+	font-family: "saira-extracondensed.semibold",Saria Saira-extracondensed
+}
+
+.institute{
+	font-family: "saira-extracondensed.semibold",Saria Saira-extracondensed;
+	font-size: 32px;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	color: #388E3C !important;
+}
+
+.degree{
+	font-size: 24px;
+	margin: 0px;
+	text-transform: uppercase;
+	color: #75C784;
+	font-family: "saira-extracondensed.medium",Saria Saira-extracondensed;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+
+.working-period{
+	color: #26713C;
+	font-size: 16px;
+	padding-top:4px;
+	text-align: right;
+}
+
+.job-detail{
+	color: #037D0A;
+	padding-top: 25px;
+	font-size: 16px;
+	font-family: sans-serif;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.icon{
+	font-size:20px !important;
+	color:white;
+}
+
+.interest-detail{
+	padding-top: 25px;
+	font-size: 16px;
+	font-family: sans-serif;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	color: #037D0A;
+}
+
+.skill-items{
+	color: #74C583 !important;font-size: 16px;
+}
+
+.main-div{
+	width: 100%;min-height:100vh; background-color:#212121; padding: 50px;
+}
+
+.mtp-25px{
+	margin-top: 25px!important;
+}
+
+.ptp-25px{
+	padding-top: 25px;
+}
+
+.mtp-40px{
+	margin-top: 40px;
+}
+
+.nav-items{
+	width: 90%; text-align: center; color: #9A9DA0;
+	padding: 8px;
+}
+
+.nav-items :hover{
+	color:#C8CACC;
+}
+
+.nav-items a{
+	width: 100%;
+	text-decoration:none !important;  color: #9A9DA0;
+}
+
+.nav-item-title{
+	margin: 0px; font-size: 16px; font-weight: bold;
+}
+
+.body-container{
+	background-color: #212121; padding: 0px;
+}
+
+.sidenavbar{
+	background-color: #343A40;height: 100%; position: fixed !important; padding: 0px;
+}
+
+.sidenavbar ul{
+	list-style: none; position: absolute;bottom: 50px; padding: 0px; width: 100%;
+}
+
+.p-0px{
+	padding: 0px !important;
+}
