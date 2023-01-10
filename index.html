@@ -124,10 +124,10 @@
             </div>
             <div class="row mtp-25px">
                 <div class="col-md-8">
-                    <span class="position">Full Stack Developer</span>
+                    <span class="position">Software Engineer</span>
                     <p class="company">ImpleVista bd</p>
                     <p class="job-detail">
-                        I am worked here as a Software Developer. My responsibility was to build client side with Angular and React js.
+                        I am worked here as a Software Engineer. My responsibility was to build client side with Angular and React js.
                     </p>
                 </div>
                 <div class="col-md-4 working-period">
