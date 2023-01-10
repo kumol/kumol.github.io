@@ -265,11 +265,9 @@
             </span>
             <div class="row mtp-25px">
                 <div class="col-md-8 interest-detail">
-                    I love to play with technologys.To me most intresting thing is learning new techonology, And work
-                    with that.
+                    I love to play with technologys.To me, the most interesting thing is learning new technology, And working with that.
 
-                    In my free time I love to play Video Game and if i get any chance then i like to travel with my
-                    family and friends.
+                    In my free time I love to play Video Game and if i get any chance then I like to travel with my family and friends.
                 </div>
             </div>
         </div>
